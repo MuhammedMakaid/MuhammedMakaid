@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/muhammed-said-2322b912b/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Muhammed, an <a href="https://linkedin.com/in/muhammed-said-2322b912b/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
